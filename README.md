@@ -1,4 +1,4 @@
-Project Description: Day-Night Analog and Digital Clock
+Project Description: Day-Night Analog and Digital Clock.
 
 Introducing our Day-Night Analog and Digital Clock – an elegant and interactive web app that seamlessly combines the charm of an analog clock with the convenience of a digital display.
 
